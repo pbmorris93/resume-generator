@@ -1,0 +1,13 @@
+{
+  "basics": {
+    "name": "Watch Test User",
+    "email": "watch@test.com"
+  },
+  "work": [
+    {
+      "name": "Test Company",
+      "position": "Test Engineer",
+      "startDate": "2024-01-01"
+    }
+  ]
+}

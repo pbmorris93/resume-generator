@@ -1,0 +1,12 @@
+{
+  "basics": {
+    "name": "",
+    "email": "not-an-email"
+  },
+  "work": [
+    {
+      "position": "Software Engineer",
+      "startDate": "invalid-date"
+    }
+  ]
+}

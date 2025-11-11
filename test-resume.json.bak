@@ -1,0 +1,13 @@
+{
+  "basics": {
+    "name": "John Doe",
+    "email": "john@example.com"
+  },
+  "work": [
+    {
+      "name": "Company",
+      "position": "Engineer",
+      "startDate": "2020-01-01"
+    }
+  ]
+}
