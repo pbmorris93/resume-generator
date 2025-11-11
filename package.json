@@ -34,7 +34,7 @@
     "commander": "^11.0.0",
     "fs-extra": "^11.2.0",
     "handlebars": "^4.7.8",
-    "ora": "^7.0.1",
+    "ora": "^9.0.0",
     "playwright": "^1.40.0"
   },
   "devDependencies": {
